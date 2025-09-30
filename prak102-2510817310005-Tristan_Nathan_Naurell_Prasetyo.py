@@ -1,0 +1,7 @@
+a = float(4)
+b = float(8)
+c = float(3)
+print("Variabel x bernilai", int(a))
+print("Variabel y bernilai", int(b))
+print("Variabel z bernilai", int(c))
+print("Hasil dari a dikali b dibagi c adalah", a*b/c)
